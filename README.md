@@ -1,6 +1,17 @@
 # HTML-Information-flipcards.
-Flipping information design cards made in HTML adds a unique way to display information on your website. All aspects of the cards are adjustable copy and paste.
+Flipping information design cards made in HTML adds a unique way to display information on your website. All aspects of the cards are adjustable just copy and paste!
 
+Code-Blocks that are ✅
+
+-SqaureSpace ✅
+
+-Word-Press ✅
+
+-Shopify ✅
+
+-Wix ✅
+
+Test the code here & Customize!- https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default_default
 
 #### HTML Flip-Card Example Front.
 
